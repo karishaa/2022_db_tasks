@@ -1,1 +1,1 @@
-SELECT *  from film WHERE release_year < 1990
+SELECT *  from film WHERE release_year < 1980
